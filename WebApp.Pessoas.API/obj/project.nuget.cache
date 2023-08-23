@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vkLa1694x2FdO92T2bfKrS4LSZgn+V5Vs+lcUEd40xIAB49nAZyWqy4JVetc0w+imfrQ8hAH2lfeEZD3C6VOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\RinhaBackEnd\\WebApp.Pessoas.API\\WebApp.Pessoas.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugoe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hugoe\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
